@@ -1,3 +1,3 @@
-[submodule "notwen.js"]
-	path = public/javascripts/notwen.js
+[submodule "public/javascripts/notwen"]
+	path = public/javascripts/notwen
 	url = git@github.com:vicapow/notwen.js.git
