@@ -1,0 +1,3 @@
+[submodule "notwen.js"]
+	path = public/javascripts/notwen.js
+	url = git@github.com:vicapow/notwen.js.git
